@@ -1,0 +1,2 @@
+1. copy by value performed by primitive data types
+2. copy by refence performed by non primitive data types
